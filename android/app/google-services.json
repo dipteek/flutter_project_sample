@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003703763232",
+    "project_id": "reel-f12bb",
+    "storage_bucket": "reel-f12bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003703763232:android:684186981e11f83cd75745",
+        "android_client_info": {
+          "package_name": "com.example.reel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003703763232-04cq8pmv1859lfifrtin4c6ppnurkk00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpvee72pvvzk81TeBSKZI-ajNo6zgXLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003703763232-04cq8pmv1859lfifrtin4c6ppnurkk00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
