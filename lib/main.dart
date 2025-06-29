@@ -9,6 +9,8 @@ import 'login_screen/login_screen_ui.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+  print(Firebase.app().name);
+  print("i am working");
   runApp(const MyApp());
 }
 

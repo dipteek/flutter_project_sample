@@ -12,12 +12,7 @@
           "package_name": "com.example.reel_app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "1003703763232-04cq8pmv1859lfifrtin4c6ppnurkk00.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
           "current_key": "AIzaSyAJpvee72pvvzk81TeBSKZI-ajNo6zgXLc"
@@ -25,12 +20,7 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1003703763232-04cq8pmv1859lfifrtin4c6ppnurkk00.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
